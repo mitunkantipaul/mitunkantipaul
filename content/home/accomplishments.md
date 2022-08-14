@@ -23,31 +23,96 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/QTVQAMLBUK6G
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-12-07'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: DeepLearning.AI TensorFlow Developer Professional Certificate
+    url: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+  
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UT3378Y8CR6B
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2020-11-22'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Introduction to Git and GitHub
+    url: https://www.coursera.org/learn/introduction-git-github
 
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WDAXD8MFWEKX
+    date_end: ''
+    date_start: '2020-11-07'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specialization
+    url: https://www.coursera.org/specializations/deep-learning
+
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WDAXD8MFWEKX
+    date_end: ''
+    date_start: '2020-11-07'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specialization
+    url: https://www.coursera.org/specializations/deep-learning
+
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/machine-learning-explainability
+    date_end: ''
+    date_start: '2020-10-01'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.com
+    title: Machine Learning Explainability
+    url: https://www.kaggle.com/learn/machine-learning-explainability
+
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/intermediate-machine-learning
+    date_end: ''
+    date_start: '2020-09-28'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.org
+    title: Intermediate Machine Learning
+    url: https://www.kaggle.com/learn/intermediate-machine-learning
+  
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/intro-to-machine-learning
+    date_end: ''
+    date_start: '2020-09-26'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.org
+    title: Intro to Machine Learning
+    url: https://www.kaggle.com/learn/intro-to-machine-learning
+  
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/intro-to-sql
+    date_end: ''
+    date_start: '2020-09-20'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.org
+    title: Intro to SQL
+    url: https://www.kaggle.com/learn/intro-to-sql
+  
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/pandas
+    date_end: ''
+    date_start: '2020-09-15'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.org
+    title: Pandas
+    url: https://www.kaggle.com/learn/pandas
+  
+  - certificate_url: https://www.kaggle.com/learn/certification/mitunkantipaul/python
+    date_end: ''
+    date_start: '2020-09-10'
+    description: ''
+    organization: Kaggle
+    organization_url: https://www.kaggle.org
+    title: Python
+    url: https://www.kaggle.com/learn/python
+    
 design:
   columns: '2'
 ---

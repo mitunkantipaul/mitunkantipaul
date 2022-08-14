@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mitun Kanti Paul
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: B.Sc. in Engineering Electri
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: Shahjalal University of Science & Technology
+#     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,21 +19,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    # - course: MEng in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2009
+    - course: BSc in Electrical & Electronics Engineering
+      institution: Shahjalal University of Science & Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,33 +45,40 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mitunkantipaul1
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mitunkantipaul
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mitunkantipaul
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mitunkantipaul.sec@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have a background in Electrical & Electronics Engineering.
+During my undergraduate studies, I worked on various hardware design and programming projects using Arduino, Microcontrollers, and PCB Design Tools such as Eagle CAD, Easy EDA, and Ki-Cad.
+I've also competed in some Line-following Robot contests.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my third year of undergrad, I became interested in machine learning, deep learning, and data science.
+Then, using my prior C and Matlab programming knowledge, I began to self-teach Python programming.
+I also began experimenting with Numpy, Pandas, Jupiter Notebook, and Matplotlib, as well as taking some Coursera courses on Machine Learning, Deep Learning, and Tensorflow.
+I did my undergrad thesis on Object Detection using YOLOv5.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am now looking forward to pursuing a Master's degree, conducting research in Deep Learning and Computer Vision, and building a career in Machine Learning.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
