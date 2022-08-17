@@ -31,6 +31,11 @@ experience:
     date_end: '2020-03-01'
     description: |2-
         Industrial Training on Electrical Engineering & Instrumentation
+        - Electrical & Electronic Engineering: Electrical Switching & protective devices, Electrical testing & measuring instrument, Transformer, Generators, Motors, Starting and Control of Induction motors, Electrical Power Generation & Control Technique, Substation & Distribution System, Power Plant Starting Procedure, Motor Controlled by AC Drives, PLC Controlled Motor Operation.
+        - Instrumentation & Control Engineering: Process Instrumentation, Sequential Logic Operation,
+        Programmable Logic Controller (PLC),Distributed Control System(DCS), Factory Automation with SCADA
+        - Mechanical Engineering: Bearing, Turbine, Machine Alignment.
+        - Industrial Safety & Health.
 
   # - title: Professor of Semiconductor Physics
   #   company: University X

@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mitunkantipaul/mitunkantipaul'
     content_dir: content
     branch: master
   avatar:
@@ -80,7 +80,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'Mitun'
       show_count: true
     commento:
       url: ''
