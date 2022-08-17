@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mitunkantipaul@gmail.com
+  email: mitunkantipaul.sec@gmail.com
   phone: (+880) 16600 22312
   address:
     street: Paul Para, Mogoler Hat

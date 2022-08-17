@@ -44,15 +44,6 @@ item:
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WDAXD8MFWEKX
     date_end: ''
     date_start: '2020-11-07'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Deep Learning Specialization
-    url: https://www.coursera.org/specializations/deep-learning
-
-  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WDAXD8MFWEKX
-    date_end: ''
-    date_start: '2020-11-07'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org

@@ -16,12 +16,12 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'academic'
+    org_name: 'Mitun Kanti Paul'
+    description: 'Academic portfolio website of Mitun Kanti Paul'
+    twitter: 'mitunkantipaul_'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-L6KPV0V1QL'
     baidu_tongji: ''
   verification:
     google: ''
