@@ -6,15 +6,15 @@ title: Mitun Kanti Paul
 superuser: true
 
 # Role/position/tagline
-# role: B.Sc. in Engineering Electri
+role: Student
 
 # # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Shahjalal University of Science & Technology
-#     url: https://www.stanford.edu/
+organizations:
+  - name: Shahjalal University of Science & Technology
+    url: https://www.sust.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence, Deep Learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
@@ -45,10 +45,10 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/mitunkantipaul1
+    link: https://twitter.com/mitunkantipaul_
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: ''
   - icon: github
     icon_pack: fab
     link: https://github.com/mitunkantipaul
