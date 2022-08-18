@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Training
     company: Training Institute for Chemical Industries (TICI)
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'http://www.tici.gov.bd/'
+    company_logo: tici
     location: Polash, Narshingdi, Bangladesh
     date_start: '2020-02-01'
     date_end: '2020-03-01'
