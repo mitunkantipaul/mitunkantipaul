@@ -17,15 +17,15 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: gmail
     formspree:
-      id: 
+      id: mitunkantipaul@sec.ac.bd
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mitunkantipaul.sec@gmail.com
+  email: mitunkantipaul@sec.ac.bd
   phone: (+880) 16600 22312
   address:
     street: Paul Para, Mogoler Hat

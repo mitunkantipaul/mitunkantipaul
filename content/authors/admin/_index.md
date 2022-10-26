@@ -79,6 +79,6 @@ Then, using my prior C and Matlab programming knowledge, I began to self-teach P
 I also began experimenting with Numpy, Pandas, Jupiter Notebook, and Matplotlib, as well as taking some Coursera courses on Machine Learning, Deep Learning, and Tensorflow.
 I did my undergrad thesis on Object Detection using YOLOv5.
 
-I am now looking forward to pursuing a Master's degree, conducting research in Deep Learning and Computer Vision, and building a career in Machine Learning.
+I am now looking forward to pursuing a PhD degree, conducting research in Deep Learning and Computer Vision, and building a career in Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
